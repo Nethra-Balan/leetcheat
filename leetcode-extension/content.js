@@ -19,6 +19,7 @@ hintPanel.style.width = "320px";
 hintPanel.style.maxHeight = "250px";
 hintPanel.style.overflowY = "auto";
 hintPanel.style.background = "#ffffff";
+hintPanel.style.color="#000000ff";
 hintPanel.style.border = "1px solid #ccc";
 hintPanel.style.borderRadius = "8px";
 hintPanel.style.padding = "10px";
