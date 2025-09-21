@@ -1,8 +1,8 @@
 # Backend
-leetclue-backend/node_modules/
-leetclue-backend/.env
-leetclue-backend/npm-debug.log
+leetcode-backend/node_modules/
+leetcode-backend/.env
+leetcode-backend/npm-debug.log
 
 # Frontend
-leetclue-extension/*.log
-leetclue-extension/.DS_Store
+leetcode-extension/*.log
+leetcode-extension/.DS_Store
